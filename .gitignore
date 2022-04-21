@@ -1,9 +1,4 @@
 /node_modules
-<<<<<<< HEAD
-.env
-/dist
-=======
 /dist
 .history
 .env
->>>>>>> 25b6384f08eb6879ecb505e698aa4fc1fae19a2b
